@@ -41,5 +41,5 @@ package org.example.이론;
 * - 행의 개수를 반환하기 때문에 rs(ResultSet) 사용 필요 x
 * */
 
-public class Java03 {
+public class Jdbc03 {
 }
